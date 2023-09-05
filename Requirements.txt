@@ -1,0 +1,9 @@
+Python 3.7
+pygame
+
+#### Python programming knowledge is required to some extent 
+### Careful the snake tends to get lost if it goes beyond the window but
+### Just restart the game 
+### I didn't implement any collision detection hence game is an Endless Runner
+
+###########Enjoy#######################################
